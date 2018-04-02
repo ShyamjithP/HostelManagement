@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Hostel Management</string>
+    <string name="guest_registration">Guest Registration</string>
+    <string name="user_name">Name</string>
+    <string name="address">Address</string>
+    <string name="dob">DOB</string>
+    <string name="company">Company</string>
+    <string name="room_no">Room No</string>
+    <string name="sharing">Sharing</string>
+    <string name="cotact">Cotact</string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="guest_name">Guest Name</string>
+    <string name="rent">Rent</string>
+    <string name="dues">Dues</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="remarks">Remarks</string>
+    <string name="total_paid">Total Paid</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="date">Date</string>
+    <string name="rooms">Rooms</string>
+    <string name="payment">Payment</string>
+    <string name="guest">Guest</string>
+</resources>
