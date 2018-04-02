@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="etWidth">215dp</dimen>
+    <dimen name="etHeight">33dp</dimen>
+    <dimen name="etAddress">60dp</dimen>
+    <dimen name="TitleWidth">217dp</dimen>
+    <dimen name="TitleHeight">34dp</dimen>
+    <dimen name="TitleTextSize">25sp</dimen>
+    <dimen name="CommonMargin">8dp</dimen>
+    <dimen name="tvTextSize">18sp</dimen>
+    <dimen name="reg_btn_width">280dp</dimen>
+    <dimen name="reg_btn_height">51dp</dimen>
+    <dimen name="search_text">212dp</dimen>
+    <dimen name="search_text_height">32dp</dimen>
+</resources>
